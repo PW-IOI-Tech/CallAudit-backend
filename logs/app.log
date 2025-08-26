@@ -1,0 +1,941 @@
+2025-07-17 10:48:07 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 10:48:07 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 10:48:07 - core.server - INFO - Database tables created/verified
+2025-07-17 10:48:41 - features.auditor.services - ERROR - Failed to login for auditor, error: 'AuditorService' object has no attribute 'jwt_settings'
+2025-07-17 10:48:41 - database - ERROR - Database session error: 500: Internal server error occurred while auditor login
+2025-07-17 10:49:54 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 10:49:57 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 10:49:57 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 10:49:57 - core.server - INFO - Database tables created/verified
+2025-07-17 10:50:14 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 10:56:22 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 10:56:22 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 10:56:22 - core.server - INFO - Database tables created/verified
+2025-07-17 10:57:18 - features.manager.services - ERROR - Password not matched
+2025-07-17 10:57:18 - database - ERROR - Database session error: 401: Password not matched
+2025-07-17 10:57:40 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:46:52 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:46:52 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:46:52 - core.server - INFO - Database tables created/verified
+2025-07-17 11:47:08 - dependecy - ERROR - Token not found in cookies
+2025-07-17 11:47:08 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 11:47:45 - features.auditor.router - INFO - mike.wilson@company.com
+2025-07-17 11:47:55 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:47:58 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:47:58 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:47:58 - core.server - INFO - Database tables created/verified
+2025-07-17 11:48:35 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:48:38 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:48:38 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:48:38 - core.server - INFO - Database tables created/verified
+2025-07-17 11:48:47 - features.auditor.router - INFO - <class 'models.Auditor'>
+2025-07-17 11:49:08 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:49:15 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:49:15 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:49:15 - core.server - INFO - Database tables created/verified
+2025-07-17 11:49:24 - features.auditor.router - INFO - <models.Auditor object at 0x000001E1387779D0>
+2025-07-17 11:49:55 - dependecy - ERROR - Token not found in cookies
+2025-07-17 11:49:55 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 11:50:27 - features.auditor.services - ERROR - No auditor found with given email
+2025-07-17 11:50:27 - database - ERROR - Database session error: 404: No auditor found with given email
+2025-07-17 11:50:53 - features.auditor.router - INFO - <models.Manager object at 0x000001E13878AAD0>
+2025-07-17 11:52:37 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:52:45 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:52:45 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:52:45 - core.server - INFO - Database tables created/verified
+2025-07-17 11:55:39 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 11:55:44 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 11:55:44 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 11:55:44 - core.server - INFO - Database tables created/verified
+2025-07-17 11:56:04 - features.manager.router - INFO - Sarah Johnson
+2025-07-17 11:56:34 - dependecy - ERROR - Token not found in cookies
+2025-07-17 11:56:34 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 11:57:49 - dependecy - ERROR - Failed to verify user, error: Signature verification failed.
+2025-07-17 11:57:49 - database - ERROR - Database session error: 500: Internal server error
+2025-07-17 12:01:03 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 13:25:18 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 13:25:18 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 13:25:18 - core.server - INFO - Database tables created/verified
+2025-07-17 13:25:52 - features.manager.services - ERROR - Failed to login for manager, error: 'Session' object has no attribute 'get_manager'
+2025-07-17 13:25:52 - database - ERROR - Database session error: 500: Internal server error occurred while manager login
+2025-07-17 13:28:58 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 13:29:00 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 13:29:01 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 13:29:01 - core.server - INFO - Database tables created/verified
+2025-07-17 13:29:36 - features.manager.router - INFO - John Smith
+2025-07-17 13:29:59 - features.manager.services - ERROR - No manager found with given email
+2025-07-17 13:29:59 - database - ERROR - Database session error: 404: No manager found with given email
+2025-07-17 13:30:11 - features.auth.services - ERROR - Invalid user role
+2025-07-17 13:30:11 - database - ERROR - Database session error: 500: Invalid user role
+2025-07-17 13:30:18 - features.auditor.services - ERROR - Password not matched
+2025-07-17 13:30:18 - database - ERROR - Database session error: 401: Password not matched
+2025-07-17 13:36:27 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 13:36:43 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 13:36:43 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 13:36:43 - core.server - INFO - Database tables created/verified
+2025-07-17 13:36:54 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 13:38:41 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 13:38:41 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 13:38:41 - core.server - INFO - Database tables created/verified
+2025-07-17 13:38:58 - dependecy - ERROR - Token not found in cookies
+2025-07-17 13:38:58 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 13:39:34 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:04:04 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:04:04 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:04:04 - core.server - INFO - Database tables created/verified
+2025-07-17 14:04:16 - dependecy - ERROR - Token not found in cookies
+2025-07-17 14:04:16 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 14:23:24 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:23:27 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:23:27 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:23:27 - core.server - INFO - Database tables created/verified
+2025-07-17 14:32:17 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:32:20 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:32:20 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:32:20 - core.server - INFO - Database tables created/verified
+2025-07-17 14:33:05 - dependecy - ERROR - Token not found in cookies
+2025-07-17 14:33:05 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 14:33:37 - dependecy - ERROR - Token not found in cookies
+2025-07-17 14:33:37 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 14:33:37 - dependecy - ERROR - Token not found in cookies
+2025-07-17 14:33:38 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 14:33:59 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:34:08 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:34:08 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:34:08 - core.server - INFO - Database tables created/verified
+2025-07-17 14:36:23 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:37:05 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:37:05 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:37:05 - core.server - INFO - Database tables created/verified
+2025-07-17 14:48:38 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 14:48:44 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 14:48:44 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 14:48:44 - core.server - INFO - Database tables created/verified
+2025-07-17 15:02:51 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:04:42 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:04:43 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:04:43 - core.server - INFO - Database tables created/verified
+2025-07-17 15:29:32 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:29:45 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:29:45 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:29:45 - core.server - INFO - Database tables created/verified
+2025-07-17 15:29:51 - dependecy - ERROR - Token not found in cookies
+2025-07-17 15:29:51 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 15:30:13 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database
+2025-07-17 15:30:14 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:30:14 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:30:59 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:31:39 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:31:39 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:31:39 - core.server - INFO - Database tables created/verified
+2025-07-17 15:31:47 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database, error: list index out of range
+2025-07-17 15:31:47 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:31:47 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:31:59 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:32:01 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:32:01 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:32:01 - core.server - INFO - Database tables created/verified
+2025-07-17 15:32:08 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:32:08 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:34:08 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:34:08 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:34:53 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:34:53 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:35:38 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:35:41 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:35:41 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:35:41 - core.server - INFO - Database tables created/verified
+2025-07-17 15:35:48 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 4 validation errors for AuditAnalyticsResponse
+total_assigned_leads
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+total_audited_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+flagged_calls
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+latest_flagged_audit
+  Field required [type=missing, input_value={'success': True, 'messag...zed audits for manager'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:35:48 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:38:07 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:38:11 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:38:11 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:38:11 - core.server - INFO - Database tables created/verified
+2025-07-17 15:38:36 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database, error: 1 validation error for AuditFlaggedResponse
+update_at
+  Field required [type=missing, input_value={'id': '88d4f67f-e1d7-4bb...7, 17, 5, 3, 3, 740901)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:38:36 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 1 validation error for AuditAnalyticsResponse
+latest_flagged_audit
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+2025-07-17 15:38:36 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:39:03 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:39:05 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:39:05 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:39:05 - core.server - INFO - Database tables created/verified
+2025-07-17 15:39:19 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database, error: 1 validation error for AuditFlaggedResponse
+update_at
+  Field required [type=missing, input_value={'id': '88d4f67f-e1d7-4bb...7, 17, 5, 3, 3, 740901)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-17 15:39:19 - features.manager.services - ERROR - Failed to get audit analysis for manager, error: 1 validation error for AuditAnalyticsResponse
+latest_flagged_audit
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+2025-07-17 15:39:19 - database - ERROR - Database session error: 500: Internal server error while getting audit analysis for manager
+2025-07-17 15:40:32 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:40:34 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:40:34 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:40:34 - core.server - INFO - Database tables created/verified
+2025-07-17 15:40:56 - dependecy - ERROR - Token not found in cookies
+2025-07-17 15:42:13 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:40:56 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 15:42:15 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:42:15 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:42:15 - core.server - INFO - Database tables created/verified
+2025-07-17 15:43:21 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 15:43:23 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 15:43:23 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 15:43:23 - core.server - INFO - Database tables created/verified
+2025-07-17 15:56:17 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 16:53:48 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 16:53:48 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 16:53:48 - core.server - INFO - Database tables created/verified
+2025-07-17 16:54:05 - dependecy - ERROR - Token not found in cookies
+2025-07-17 16:54:05 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 16:54:41 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 17:03:16 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 17:03:20 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:03:20 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:03:20 - core.server - INFO - Database tables created/verified
+2025-07-17 17:04:13 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 17:04:13 - features.manager.repository - INFO - Getting auditors
+2025-07-17 17:04:32 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 17:04:34 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:04:34 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:04:34 - core.server - INFO - Database tables created/verified
+2025-07-17 17:04:42 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 17:04:42 - features.manager.repository - INFO - Getting auditors
+2025-07-17 17:06:00 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 17:06:00 - features.manager.repository - INFO - Getting auditors
+2025-07-17 17:12:46 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:12:46 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:12:46 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:12:46 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:12:47 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database, error: 1 validation error for AuditFlaggedResponse
+flag_reason
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+2025-07-17 17:12:47 - features.manager.services - ERROR - leads/audits/flagged_calls/latest_flagged_audit is None
+2025-07-17 17:12:47 - database - ERROR - Database session error: 500: Internal server error while fetching data from database
+2025-07-17 17:13:42 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 17:13:43 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:13:44 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:13:44 - core.server - INFO - Database tables created/verified
+2025-07-17 17:13:51 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:13:51 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:13:51 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:13:52 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:13:52 - features.manager.repository - ERROR - Failed to retrieve all latest flagged audit from database, error: flag
+2025-07-17 17:13:52 - features.manager.services - ERROR - leads/audits/flagged_calls/latest_flagged_audit is None
+2025-07-17 17:13:52 - database - ERROR - Database session error: 500: Internal server error while fetching data from database
+2025-07-17 17:14:11 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 17:14:13 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:14:13 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:14:13 - core.server - INFO - Database tables created/verified
+2025-07-17 17:14:21 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:14:22 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:14:22 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:14:22 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:14:22 - features.manager.services - ERROR - Failed to get manager analysis for manager, error: name 'AuditAnalyticsResponse' is not defined
+2025-07-17 17:14:22 - database - ERROR - Database session error: 500: Internal server error while getting manager analysis for manager
+2025-07-17 17:15:19 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:15:19 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:15:19 - core.server - INFO - Database tables created/verified
+2025-07-17 17:15:27 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:15:27 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:15:27 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:15:28 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:16:02 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 17:16:02 - features.manager.repository - INFO - Getting auditors
+2025-07-17 17:16:29 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 17:26:39 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 17:26:39 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 17:26:39 - core.server - INFO - Database tables created/verified
+2025-07-17 17:26:50 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:26:50 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:26:51 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:26:51 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-17 17:30:15 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 18:10:23 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 18:10:23 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 18:10:23 - core.server - INFO - Database tables created/verified
+2025-07-17 18:11:03 - dependecy - ERROR - Token not found in cookies
+2025-07-17 18:11:03 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 19:39:13 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 19:39:13 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 19:39:13 - core.server - INFO - Database tables created/verified
+2025-07-17 20:08:01 - features.manager.repository - INFO - Getting counsellor data...
+2025-07-17 20:08:01 - features.manager.repository - INFO - Getting counsellors...
+2025-07-17 20:08:01 - features.manager.services - ERROR - counsellor_data or counsellors is none
+2025-07-17 20:08:01 - database - ERROR - Database session error: 500: Internal sever error occurred while fetching counsellor data
+2025-07-17 20:09:53 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 20:09:57 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 20:09:57 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 20:09:57 - core.server - INFO - Database tables created/verified
+2025-07-17 20:10:04 - features.manager.repository - INFO - Getting counsellor data...
+2025-07-17 20:10:04 - features.manager.repository - INFO - Getting counsellors...
+2025-07-17 21:19:36 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 21:20:10 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 21:20:10 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 21:20:10 - core.server - INFO - Database tables created/verified
+2025-07-17 21:20:20 - dependecy - ERROR - Token not found in cookies
+2025-07-17 21:20:20 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 21:21:31 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:21:32 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:21:32 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:21:32 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:21:33 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 21:24:35 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 21:24:39 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 21:24:39 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 21:24:39 - core.server - INFO - Database tables created/verified
+2025-07-17 21:24:47 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:24:48 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:24:48 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:24:48 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:24:48 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 21:26:41 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 21:26:48 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 21:26:49 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 21:26:49 - core.server - INFO - Database tables created/verified
+2025-07-17 21:27:04 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:27:04 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:27:04 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:27:04 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:27:05 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-17 21:27:05 - features.manager.services - ERROR - leads/audits/flagged_calls/latest_flagged_audit is None
+2025-07-17 21:27:05 - database - ERROR - Database session error: 500: Internal server error while fetching data from database
+2025-07-17 21:27:53 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 21:27:54 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 21:27:54 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 21:27:54 - core.server - INFO - Database tables created/verified
+2025-07-17 21:28:19 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:28:19 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:28:19 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:28:19 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:28:20 - features.manager.repository - INFO - Getting last 7 days data
+2025-07-17 21:29:00 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 21:29:02 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 21:29:02 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 21:29:02 - core.server - INFO - Database tables created/verified
+2025-07-17 21:29:23 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:29:23 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:29:23 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:29:23 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:29:24 - features.manager.repository - INFO - Getting last 7 days audited data data
+2025-07-17 21:33:22 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:33:22 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:33:22 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:33:22 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-17 21:33:23 - features.manager.repository - INFO - Getting last 7 days audited data data
+2025-07-17 21:33:34 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:21:23 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:21:23 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:21:23 - core.server - INFO - Database tables created/verified
+2025-07-17 22:22:59 - features.auditor.services - ERROR - No auditor found with given email
+2025-07-17 22:22:59 - database - ERROR - Database session error: 404: No auditor found with given email
+2025-07-17 22:23:27 - features.auditor.repository - ERROR - Failed to fetch calls from database, error: 1 validation error for CallResponse
+sentiment_score
+  Input should be a valid integer, got a number with a fractional part [type=int_from_float, input_value=-0.75, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.11/v/int_from_float
+2025-07-17 22:23:27 - features.auditor.services - ERROR - Failed to get calls for auditor, error: 1 validation error for CallsResponseSchema
+calls
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/list_type
+2025-07-17 22:23:27 - database - ERROR - Database session error: 500: Internal server error occurred while fetching calls
+2025-07-17 22:23:56 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:24:17 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:24:17 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:24:17 - core.server - INFO - Database tables created/verified
+2025-07-17 22:25:45 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:25:48 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:25:48 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:25:48 - core.server - INFO - Database tables created/verified
+2025-07-17 22:26:11 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:26:13 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:26:13 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:26:13 - core.server - INFO - Database tables created/verified
+2025-07-17 22:35:17 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:35:20 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:35:20 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:35:20 - core.server - INFO - Database tables created/verified
+2025-07-17 22:35:34 - features.auditor.repository - ERROR - Failed to fetch stats from database, error: Neither 'count' object nor 'Comparator' object has an attribute 'fitler'
+2025-07-17 22:35:34 - features.auditor.services - ERROR - Failed to get calls for auditor, error: 1 validation error for CallsResponseSchema
+call_stats
+  Input should be a valid dictionary or instance of CallStats [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-07-17 22:35:34 - database - ERROR - Database session error: 500: Internal server error occurred while fetching calls
+2025-07-17 22:35:50 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:35:52 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:35:52 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:35:52 - core.server - INFO - Database tables created/verified
+2025-07-17 22:39:09 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:41:32 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:41:32 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:41:32 - core.server - INFO - Database tables created/verified
+2025-07-17 22:57:26 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 22:57:34 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 22:57:34 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 22:57:34 - core.server - INFO - Database tables created/verified
+2025-07-17 22:57:44 - dependecy - ERROR - Token not found in cookies
+2025-07-17 22:57:44 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 23:23:08 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 23:23:12 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 23:23:12 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 23:23:12 - core.server - INFO - Database tables created/verified
+2025-07-17 23:25:27 - dependecy - ERROR - Token not found in cookies
+2025-07-17 23:25:27 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-17 23:57:01 - core.server - INFO - Shutting down FastAPI application...
+2025-07-17 23:57:04 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-17 23:57:04 - core.server - INFO - Starting up FastAPI application...
+2025-07-17 23:57:04 - core.server - INFO - Database tables created/verified
+2025-07-18 00:02:09 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:02:11 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:02:11 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:02:11 - core.server - INFO - Database tables created/verified
+2025-07-18 00:02:27 - features.auditor.services - ERROR - call stats or latest_calls not last_7_days_data is None
+2025-07-18 00:02:27 - database - ERROR - Database session error: 500: Internal server error occurred while fetching dashboard data
+2025-07-18 00:03:36 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:03:38 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:03:38 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:03:38 - core.server - INFO - Database tables created/verified
+2025-07-18 00:04:09 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:05:40 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:05:40 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:05:40 - core.server - INFO - Database tables created/verified
+2025-07-18 00:08:43 - features.manager.services - ERROR - Current user is not manager
+2025-07-18 00:08:43 - database - ERROR - Database session error: 403: Current user is not authorized as manager
+2025-07-18 00:09:10 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:09:16 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:09:16 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:09:16 - core.server - INFO - Database tables created/verified
+2025-07-18 00:10:05 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:10:06 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:10:06 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:10:06 - core.server - INFO - Database tables created/verified
+2025-07-18 00:10:15 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:10:16 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:10:17 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:10:17 - core.server - INFO - Database tables created/verified
+2025-07-18 00:11:03 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:11:05 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:11:05 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:11:05 - core.server - INFO - Database tables created/verified
+2025-07-18 00:13:10 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:13:12 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:13:12 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:13:12 - core.server - INFO - Database tables created/verified
+2025-07-18 00:13:55 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 00:13:56 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 00:13:57 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 00:13:57 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 00:13:57 - features.manager.repository - INFO - Getting last 7 days audited data
+2025-07-18 00:14:30 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 00:14:30 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 00:14:30 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 00:14:30 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 00:14:31 - features.manager.repository - INFO - Getting last 7 days audited data
+2025-07-18 00:14:52 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 00:23:08 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 00:23:08 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 00:23:08 - core.server - INFO - Database tables created/verified
+2025-07-18 00:24:27 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 01:00:41 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 01:00:42 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 01:00:42 - core.server - INFO - Database tables created/verified
+2025-07-18 01:07:35 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 01:07:39 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 01:07:39 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 01:07:39 - core.server - INFO - Database tables created/verified
+2025-07-18 01:08:10 - features.auditor.services - INFO - Approve lead api called
+2025-07-18 01:08:10 - features.auditor.repository - ERROR - Call not found for the given auditor.
+2025-07-18 01:08:10 - features.auditor.repository - ERROR - Failed to approve lead and update db, error: 404: Call not found for the given auditor.
+2025-07-18 01:08:10 - database - ERROR - Database session error: 500: Internal server error occurred while approving lead.
+2025-07-18 01:09:35 - features.auditor.services - INFO - Approve lead api called
+2025-07-18 01:09:36 - features.auditor.repository - ERROR - Audit report not found creating new one.
+2025-07-18 01:09:36 - features.auditor.repository - ERROR - Failed to approve lead and update db, error: 'NoneType' object has no attribute 'comments'
+2025-07-18 01:09:36 - database - ERROR - Database session error: 500: Internal server error occurred while approving lead.
+2025-07-18 01:10:55 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 01:10:59 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 01:10:59 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 01:10:59 - core.server - INFO - Database tables created/verified
+2025-07-18 01:11:34 - features.auditor.services - INFO - Approve lead api called
+2025-07-18 01:11:35 - features.auditor.repository - ERROR - Audit report not found creating new one.
+2025-07-18 01:11:36 - features.auditor.repository - INFO - Database update succesfull
+2025-07-18 01:17:34 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 01:17:38 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 01:17:38 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 01:17:38 - core.server - INFO - Database tables created/verified
+2025-07-18 01:17:57 - database - ERROR - Database session error: 401: Unauthorised access, user is not auditor or manager.
+2025-07-18 01:18:38 - features.manager.services - ERROR - No manager found with given email
+2025-07-18 01:18:38 - database - ERROR - Database session error: 404: No manager found with given email
+2025-07-18 01:18:44 - database - ERROR - Database session error: 401: Unauthorised access, user is not auditor or manager.
+2025-07-18 01:19:03 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 01:19:06 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 01:19:06 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 01:19:06 - core.server - INFO - Database tables created/verified
+2025-07-18 01:20:00 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 12:16:27 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 12:16:28 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 12:16:28 - core.server - INFO - Database tables created/verified
+2025-07-18 12:17:11 - features.manager.services - INFO - API endpoint called for getting flagged audits
+2025-07-18 12:17:11 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 14:19:45 - core.server - INFO - Shutting down FastAPI application...
+2025-07-18 14:29:17 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 14:29:18 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 14:29:18 - core.server - INFO - Database tables created/verified
+2025-07-18 14:39:03 - __main__ - INFO - Environment variables loaded successfully, test env: None
+2025-07-18 14:39:03 - core.server - INFO - Starting up FastAPI application...
+2025-07-18 14:39:03 - core.server - INFO - Database tables created/verified
+2025-07-18 14:44:00 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:44:00 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:44:01 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:44:01 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:44:01 - features.manager.repository - INFO - Getting last 7 days audited data
+2025-07-18 14:50:08 - features.manager.repository - INFO - Getting all leads for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:50:08 - features.manager.repository - INFO - Getting all audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:50:08 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:50:09 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-18 14:50:09 - features.manager.repository - INFO - Getting last 7 days audited data
+2025-07-18 14:51:38 - features.manager.repository - INFO - Getting all leads for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 14:51:38 - features.manager.repository - INFO - Getting all audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 14:51:39 - features.manager.repository - INFO - Getting all flagged calls for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 14:51:39 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 2ace8eeb-9eba-45f5-9c59-bc2f3e27ad27
+2025-07-18 14:51:39 - features.manager.repository - INFO - Getting last 7 days audited data
+2025-07-24 17:44:46 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-24 17:44:46 - core.server - INFO - Starting up FastAPI application...
+2025-07-24 17:44:46 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-24 17:44:46 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-24 17:59:16 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 09:39:22 - __main__ - INFO - Creating QC Backend Application instance...
+2025-07-25 09:39:22 - __main__ - INFO - Initializing QC Backend Application...
+2025-07-25 09:39:22 - __main__ - INFO - Setting up application routers...
+2025-07-25 09:39:22 - __main__ - INFO - All routers registered successfully
+2025-07-25 09:39:22 - __main__ - INFO - Setting up global error handlers...
+2025-07-25 09:39:22 - __main__ - INFO - Global error handlers configured successfully
+2025-07-25 09:39:22 - __main__ - INFO - Setting up health check endpoints...
+2025-07-25 09:39:22 - __main__ - INFO - Health check endpoints registered successfully
+2025-07-25 09:39:22 - __main__ - INFO - QC Backend Application initialized successfully
+2025-07-25 09:39:22 - __main__ - INFO - ============================================================
+2025-07-25 09:39:22 - __main__ - INFO - QC BACKEND APPLICATION STARTUP
+2025-07-25 09:39:22 - __main__ - INFO - ============================================================
+2025-07-25 09:39:22 - __main__ - INFO - Validating environment configuration...
+2025-07-25 09:39:22 - __main__ - ERROR - Missing required environment variables: ['DATABASE_URL', 'JWT_ALGORITHM']
+2025-07-25 09:39:22 - __main__ - CRITICAL - Environment validation failed. Cannot start application.
+2025-07-25 09:39:22 - __main__ - CRITICAL - System exit requested: 1
+2025-07-25 09:39:22 - __main__ - INFO - QC Backend Application shutdown complete
+2025-07-25 09:39:35 - __main__ - INFO - Creating QC Backend Application instance...
+2025-07-25 09:39:35 - __main__ - INFO - Initializing QC Backend Application...
+2025-07-25 09:39:35 - __main__ - INFO - Setting up application routers...
+2025-07-25 09:39:35 - __main__ - INFO - All routers registered successfully
+2025-07-25 09:39:35 - __main__ - INFO - Setting up global error handlers...
+2025-07-25 09:39:35 - __main__ - INFO - Global error handlers configured successfully
+2025-07-25 09:39:35 - __main__ - INFO - Setting up health check endpoints...
+2025-07-25 09:39:35 - __main__ - INFO - Health check endpoints registered successfully
+2025-07-25 09:39:35 - __main__ - INFO - QC Backend Application initialized successfully
+2025-07-25 09:39:35 - __main__ - INFO - ============================================================
+2025-07-25 09:39:35 - __main__ - INFO - QC BACKEND APPLICATION STARTUP
+2025-07-25 09:39:35 - __main__ - INFO - ============================================================
+2025-07-25 09:39:35 - __main__ - INFO - Environment: development
+2025-07-25 09:39:35 - __main__ - INFO - Test Environment Variable: Succesfully loaded
+2025-07-25 09:39:35 - __main__ - INFO - Python Path: Not Set
+2025-07-25 09:39:35 - __main__ - INFO - Working Directory: E:\IOI-Internship\CallAudit-backend
+2025-07-25 09:39:35 - __main__ - INFO - Starting server on 127.0.0.1:8000
+2025-07-25 09:39:35 - __main__ - INFO - Workers: 1, Reload: False
+2025-07-25 09:39:35 - main - INFO - Creating QC Backend Application instance...
+2025-07-25 09:39:35 - main - INFO - Initializing QC Backend Application...
+2025-07-25 09:39:35 - main - INFO - Setting up application routers...
+2025-07-25 09:39:35 - main - INFO - All routers registered successfully
+2025-07-25 09:39:35 - main - INFO - Setting up global error handlers...
+2025-07-25 09:39:35 - main - INFO - Global error handlers configured successfully
+2025-07-25 09:39:35 - main - INFO - Setting up health check endpoints...
+2025-07-25 09:39:35 - main - INFO - Health check endpoints registered successfully
+2025-07-25 09:39:35 - main - INFO - QC Backend Application initialized successfully
+2025-07-25 09:39:35 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 09:39:35 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 09:39:35 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 09:48:56 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 09:48:56 - __main__ - INFO - QC Backend Application shutdown complete
+2025-07-25 09:49:04 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 09:49:04 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 09:49:04 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 09:49:04 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 09:49:18 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:07:11 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:07:12 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:07:12 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:07:12 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:07:41 - dependency - ERROR - Authentication failed: Token not found in cookies
+2025-07-25 11:07:41 - database - ERROR - Database session error: 401: Authentication token is missing
+2025-07-25 11:28:16 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:28:29 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:28:30 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:28:30 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:28:30 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:28:54 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:29:03 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:29:03 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:29:03 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:29:03 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:31:02 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-25 11:31:02 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: b247e4fc-e06a-469b-b23a-64fe853e6504
+2025-07-25 11:31:02 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: b247e4fc-e06a-469b-b23a-64fe853e6504
+2025-07-25 11:31:22 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:31:22 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:31:22 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:34:57 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:34:57 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:34:57 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:39:02 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:39:02 - features.auditor.services - INFO - Approve lead api called
+2025-07-25 11:39:03 - features.auditor.repository - ERROR - Audit report not found creating new one.
+2025-07-25 11:39:03 - features.auditor.repository - ERROR - SQLAlchemy error occurred: (psycopg2.errors.InvalidTextRepresentation) invalid input value for enum callflag: "concern"
+LINE 1: ...4-bfd4-f11421af1593', 6.3, 'not nice counsellor', 'concern',...
+                                                             ^
+
+[SQL: INSERT INTO audit_reports (id, call_id, auditor_id, manager_id, score, comments, flag, flag_reason, created_at, updated_at) VALUES (%(id)s, %(call_id)s, %(auditor_id)s, %(manager_id)s, %(score)s, %(comments)s, %(flag)s, %(flag_reason)s, %(created_at)s, %(updated_at)s)]
+[parameters: {'id': '4eafc00a-fcea-4c5b-9536-cbe33e72f5be', 'call_id': 'd84ff86a-6ef5-4121-a065-2282bf61bec1', 'auditor_id': '8e40e504-4062-4117-ae2d-1314affe9691', 'manager_id': '54b6066b-f833-4a34-bfd4-f11421af1593', 'score': 6.3, 'comments': 'not nice counsellor', 'flag': 'concern', 'flag_reason': 'counsellor yelling', 'created_at': datetime.datetime(2025, 7, 25, 6, 9, 3, 12876), 'updated_at': datetime.datetime(2025, 7, 25, 6, 9, 3, 12876)}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-07-25 11:39:03 - database - ERROR - Database session error: 500: Database error occurred while updating call and audit report.
+2025-07-25 11:41:21 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:41:21 - features.auditor.services - INFO - Approve lead api called
+2025-07-25 11:41:21 - features.auditor.repository - ERROR - Failed to approve lead and update db, error: 'CONCERN' is not a valid CallFlag
+2025-07-25 11:41:21 - database - ERROR - Database session error: 500: Internal server error occurred while approving lead.
+2025-07-25 11:41:54 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:42:03 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:42:03 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:42:03 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:42:03 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:42:11 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:42:11 - features.auditor.services - INFO - Approve lead api called
+2025-07-25 11:42:11 - features.auditor.repository - ERROR - Audit report not found creating new one.
+2025-07-25 11:42:12 - features.auditor.repository - INFO - Database update succesfull
+2025-07-25 11:45:54 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:46:21 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:46:22 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:46:22 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:46:22 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:46:35 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:46:35 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:46:35 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-07-25 11:48:51 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:48:57 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:48:57 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:48:58 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:48:58 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:49:26 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:49:39 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:49:39 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:49:39 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:49:39 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:51:11 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:51:46 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:51:52 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:51:52 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:51:52 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:51:52 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:52:27 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-07-25 11:52:28 - features.manager.repository - INFO - Succesfully unflagged audit with audit id: d7d42139-5236-46a5-9f70-36272fed59ad
+2025-07-25 11:55:56 - core.server - INFO - Shutting down FastAPI application...
+2025-07-25 11:56:38 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-25 11:56:38 - core.server - INFO - Starting up FastAPI application...
+2025-07-25 11:56:38 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-25 11:56:38 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-25 11:57:37 - dependency - INFO - Manager authentication successful: sarah.johnson@company.com
+2025-07-25 11:57:37 - features.manager.services - INFO - API endpoint called for getting flagged audits
+2025-07-25 11:57:37 - features.manager.repository - INFO - Getting all latest flagged audits for manager with id: 54b6066b-f833-4a34-bfd4-f11421af1593
+2025-07-26 22:34:01 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-26 22:34:01 - core.server - INFO - Starting up FastAPI application...
+2025-07-26 22:34:01 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-26 22:34:01 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-26 22:34:10 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-07-26 22:57:32 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 14:06:15 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 14:06:15 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 14:06:16 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 14:06:16 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 14:06:37 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-07-30 14:16:35 - features.counsellor.router - INFO - Successfully saved call recording file 'manjiri_bansode_unprofessional no patience_pw_live_2025-07-11-12-26-14.mp3' to temp directory
+2025-07-30 14:16:35 - features.counsellor.services - INFO - Processing call recording and adding the call in database
+2025-07-30 14:16:35 - features.counsellor.repository - INFO - Adding call in database
+2025-07-30 14:16:41 - features.counsellor.repository - INFO - Successfully added call in database
+2025-07-30 14:16:41 - features.counsellor.services - INFO - Starting background thread for call analysis (Call ID: 3f87206a-2884-4616-b5d6-fb29207cbf6c)
+2025-07-30 14:16:41 - features.counsellor.services - INFO - Starting background processing for call 3f87206a-2884-4616-b5d6-fb29207cbf6c
+2025-07-30 14:16:41 - features.counsellor.services - INFO - Uploading audio for call 3f87206a-2884-4616-b5d6-fb29207cbf6c to S3.
+2025-07-30 14:16:44 - features.counsellor.services - INFO - Successfully uploaded audio for call 3f87206a-2884-4616-b5d6-fb29207cbf6c to S3.
+2025-07-30 14:16:44 - features.counsellor.services - INFO - Uploaded audio for call 3f87206a-2884-4616-b5d6-fb29207cbf6c to S3.
+2025-07-30 14:16:44 - features.counsellor.repository - INFO - Updating call recording audio..
+2025-07-30 14:16:45 - features.counsellor.repository - INFO - Successfully updated call
+2025-07-30 14:16:45 - features.counsellor.services - INFO - Updated database record for call 3f87206a-2884-4616-b5d6-fb29207cbf6c with S3 URL.
+2025-07-30 14:16:45 - features.counsellor.services - INFO - Performing AI analysis for audio
+2025-07-30 14:16:45 - features.counsellor.services - INFO - Extracting transcription from audio
+2025-07-30 14:17:40 - httpx - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/speech-to-text "HTTP/1.1 200 OK"
+2025-07-30 14:17:41 - features.counsellor.services - INFO - Successfully transcribed audio
+2025-07-30 14:17:41 - features.counsellor.services - INFO - Analyzing conversation
+2025-07-30 14:18:01 - httpx - INFO - HTTP Request: POST https://alakhaieastus2.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-07-30 14:18:01 - features.counsellor.services - INFO - Successfully analyzed conversation
+2025-07-30 14:18:01 - features.counsellor.services - INFO - Generating summary
+2025-07-30 14:18:09 - httpx - INFO - HTTP Request: POST https://alakhaieastus2.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-07-30 14:18:09 - features.counsellor.services - INFO - Successfully generated summary
+2025-07-30 14:18:09 - features.counsellor.services - INFO - Getting sentiment score
+2025-07-30 14:18:10 - httpx - INFO - HTTP Request: POST https://alakhaieastus2.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-07-30 14:18:10 - features.counsellor.services - INFO - Successfully generated sentiment score
+2025-07-30 14:18:10 - features.counsellor.services - INFO - Getting anomalies
+2025-07-30 14:18:19 - httpx - INFO - HTTP Request: POST https://alakhaieastus2.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-07-30 14:18:19 - features.counsellor.services - INFO - Successfully generated anomalies
+2025-07-30 14:18:19 - features.counsellor.services - INFO - Extracting keywords
+2025-07-30 14:18:21 - httpx - INFO - HTTP Request: POST https://alakhaieastus2.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-07-30 14:18:21 - features.counsellor.services - INFO - Successfully extracted keywords
+2025-07-30 14:18:21 - features.counsellor.services - INFO - Getting AI confidence score
+2025-07-30 14:18:21 - features.counsellor.services - INFO - Successfully got AI confidence score
+2025-07-30 14:18:21 - features.counsellor.services - INFO - Completed AI analysis for call 3f87206a-2884-4616-b5d6-fb29207cbf6c.
+2025-07-30 14:18:23 - features.counsellor.repository - INFO - Successfully saved AI analysis for call ID 3f87206a-2884-4616-b5d6-fb29207cbf6c
+2025-07-30 14:18:23 - features.counsellor.services - INFO - Saved AI analysis results for call 3f87206a-2884-4616-b5d6-fb29207cbf6c to database.
+2025-07-30 14:18:23 - features.counsellor.services - INFO - Cleaned up temporary audio file for call 3f87206a-2884-4616-b5d6-fb29207cbf6c.
+2025-07-30 14:18:23 - features.counsellor.services - INFO - Successfully processed audio for call 3f87206a-2884-4616-b5d6-fb29207cbf6c
+2025-07-30 14:29:29 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 14:29:49 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 14:30:01 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 14:30:01 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: b247e4fc-e06a-469b-b23a-64fe853e6504
+2025-07-30 14:30:01 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: b247e4fc-e06a-469b-b23a-64fe853e6504
+2025-07-30 14:35:48 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 14:42:08 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 18:42:29 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 18:42:29 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 18:42:30 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 18:42:30 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:22:11 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-07-30 19:23:02 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:23:02 - features.manager.repository - ERROR - Internal server occurred while getting name of the manager, error : 'Depends' object has no attribute 'query'
+2025-07-30 19:23:02 - database - ERROR - Database session error: HTTPException.__init__() missing 1 required positional argument: 'status_code'
+2025-07-30 19:31:47 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:31:54 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:31:54 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:31:54 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:31:54 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:32:06 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:32:06 - database - ERROR - Database session error: 500: Internal server error occurred while checking authentication
+2025-07-30 19:35:18 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:35:24 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:35:24 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:35:24 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:35:24 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:35:39 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:35:39 - root - ERROR - Internal server error occurred while checking authentication, error: ManagerRepository.get_manager() got an unexpected keyword argument 'manager_id'
+2025-07-30 19:35:39 - database - ERROR - Database session error: 500: Internal server error occurred while checking authentication
+2025-07-30 19:38:17 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:38:20 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:38:20 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:38:20 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:38:20 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:38:27 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:38:27 - root - ERROR - Internal server error occurred while checking authentication, error: 2 validation errors for AuditorSchema
+success
+  Field required [type=missing, input_value={'id': 'b247e4fc-e06a-469...'manager': 'John Smith'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+message
+  Field required [type=missing, input_value={'id': 'b247e4fc-e06a-469...'manager': 'John Smith'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 19:38:27 - database - ERROR - Database session error: 500: Internal server error occurred while checking authentication
+2025-07-30 19:40:21 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:40:24 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:40:24 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:40:24 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:40:24 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:40:36 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:41:24 - dependency - INFO - Manager authentication successful: john.smith@company.com
+2025-07-30 19:41:24 - root - ERROR - Internal server error occurred while checking authentication, error: 2 validation errors for CheckAuthSchema
+user.AuditorSchema
+  Input should be a valid dictionary or instance of AuditorSchema [type=model_type, input_value=User(id='2ace8eeb-9eba-45...ny.com', role='manager'), input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+user.ManagerSchema
+  Input should be a valid dictionary or instance of ManagerSchema [type=model_type, input_value=User(id='2ace8eeb-9eba-45...ny.com', role='manager'), input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-07-30 19:41:24 - database - ERROR - Database session error: 500: Internal server error occurred while checking authentication
+2025-07-30 19:44:44 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:44:51 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:44:51 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:44:51 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:44:51 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:45:01 - dependency - INFO - Manager authentication successful: john.smith@company.com
+2025-07-30 19:45:20 - dependency - INFO - Auditor authentication successful: david.brown@company.com
+2025-07-30 19:45:29 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 19:53:21 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 19:53:21 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 19:53:21 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 19:53:21 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 19:54:38 - features.manager.services - ERROR - No manager found with given email
+2025-07-30 19:54:38 - database - ERROR - Database session error: 404: No manager found with given email
+2025-07-30 19:55:01 - dependency - INFO - Manager authentication successful: john.smith@company.com
+2025-07-30 19:55:01 - features.manager.repository - INFO - Getting auditor and audited calls count
+2025-07-30 19:55:01 - features.manager.repository - INFO - Getting auditors
+2025-07-30 19:55:38 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 23:21:02 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 23:21:02 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 23:21:03 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 23:21:03 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 23:21:10 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-07-30 23:22:11 - core.jwt_util - ERROR - Failed to generate refresh token
+2025-07-30 23:23:25 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 23:23:33 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 23:23:33 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 23:23:34 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 23:23:34 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 23:23:44 - core.jwt_util - ERROR - Failed to generate refresh token, error: keys must be str, int, float, bool or None, not builtin_function_or_method
+2025-07-30 23:24:29 - core.server - INFO - Shutting down FastAPI application...
+2025-07-30 23:24:36 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-07-30 23:24:36 - core.server - INFO - Starting up FastAPI application...
+2025-07-30 23:24:37 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-07-30 23:24:37 - core.server - INFO - S3 client initialized and stored in app.state
+2025-07-30 23:25:43 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 11:08:59 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 11:08:59 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 11:09:00 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 11:09:00 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 11:10:40 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-04 11:13:24 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-08-04 11:13:39 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-08-04 11:15:55 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-08-04 11:26:30 - dependency - INFO - Auditor authentication successful: emma.davis@company.com
+2025-08-04 11:26:30 - features.auditor.services - INFO - API endpoint called for getting flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-08-04 11:26:30 - features.auditor.repository - INFO - Getting all latest flagged audits for auditor with id: 8e40e504-4062-4117-ae2d-1314affe9691
+2025-08-04 11:47:02 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 12:01:39 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 12:01:39 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 12:01:40 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 12:01:40 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 12:04:25 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-04 12:08:49 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 12:09:04 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 12:09:05 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 12:09:05 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 12:09:05 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 12:09:31 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 12:09:38 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 12:09:38 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 12:09:39 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 12:09:39 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 12:09:40 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 13:01:45 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 13:01:45 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 13:01:46 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 13:01:46 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 13:02:55 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "E:\IOI-Internship\CallAudit-backend\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-08-04 13:03:01 - features.manager.repository - INFO - Succesfully created new manager in database
+2025-08-04 13:03:01 - features.manager.services - INFO - Manager created successfully
+2025-08-04 13:03:01 - features.manager.services - ERROR - Error while creating new manager, exceptions must derive from BaseException
+2025-08-04 13:03:01 - database - ERROR - Database session error: 500: Internal Server error occurred while creating new manager
+2025-08-04 13:06:35 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 13:07:21 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 13:07:21 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 13:07:21 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 13:07:21 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 13:07:28 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "E:\IOI-Internship\CallAudit-backend\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-08-04 13:07:33 - features.manager.repository - INFO - Succesfully created new manager in database
+2025-08-04 13:07:33 - features.manager.services - INFO - Manager created successfully
+2025-08-04 13:08:20 - features.auditor.repository - INFO - Succesfully created new auditor in database
+2025-08-04 13:08:20 - features.auditor.services - INFO - Auditor created successfully
+2025-08-04 13:10:58 - features.counsellor.repository - ERROR - Internal server error occurred while creating new counsellor, error: 'password' is an invalid keyword argument for Counsellor
+2025-08-04 13:10:58 - database - ERROR - Database session error: 500: Internal server error occurred while creating new counsellor
+2025-08-04 13:11:48 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 13:11:52 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 13:11:52 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 13:11:52 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 13:11:52 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 13:12:03 - features.counsellor.repository - INFO - Succesfully created new counsellor in database
+2025-08-04 13:12:03 - features.counsellor.services - INFO - Counsellor created successfully
+2025-08-04 13:20:51 - core.server - INFO - Shutting down FastAPI application...
+2025-08-04 14:07:33 - __main__ - INFO - Environment variables loaded successfully, test env: Succesfully loaded
+2025-08-04 14:07:33 - core.server - INFO - Starting up FastAPI application...
+2025-08-04 14:07:33 - core.save_to_s3 - INFO - S3 client initialise succcesfully
+2025-08-04 14:07:33 - core.server - INFO - S3 client initialized and stored in app.state
+2025-08-04 14:07:37 - core.server - INFO - Shutting down FastAPI application...
