@@ -15,4 +15,4 @@ python-jose[cryptography]>=3.5.0
 python-multipart>=0.0.20
 sqlalchemy>=2.0.41
 uvicorn[standard]>=0.35.0
-dotenv>=0.9.
+dotenv>=0.9.9
